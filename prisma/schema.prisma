@@ -1,0 +1,64 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum UserRole {
+  ADMIN
+  USER
+}
+
+enum MfaMethod {
+  NONE
+  TOTP
+  EMAIL
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String
+  role      UserRole @default(USER)
+  approved  Boolean  @default(false)
+  createdAt DateTime @default(now())
+
+  /// Podaci prikupljeni pri registraciji (uvid administratora prije odobrenja)
+  firstName String? @db.VarChar(120)
+  lastName  String? @db.VarChar(120)
+  phone     String? @db.VarChar(32)
+  /// Jedinstveni matični broj (13 cifara), normalizovan pri čuvanju
+  jmbg      String? @unique @db.VarChar(13)
+
+  mfaMethod MfaMethod @default(NONE)
+  /// Base32 tajna za TOTP (čuvati kao povjerljivo)
+  totpSecret String?
+
+  mfaEmailCodeHash      String?
+  mfaEmailCodeExpiresAt DateTime?
+}
+
+model Category {
+  id       Int       @id @default(autoincrement())
+  name     String    @unique
+  products Product[]
+}
+
+model Product {
+  id         Int      @id @default(autoincrement())
+  name       String
+  price      Decimal  @db.Decimal(10, 2)
+  /// Stanje na skladištu (kom)
+  quantity   Int      @default(0)
+  categoryId Int
+  createdAt  DateTime @default(now())
+
+  category Category @relation(fields: [categoryId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+}
