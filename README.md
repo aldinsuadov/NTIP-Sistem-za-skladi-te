@@ -74,29 +74,82 @@ Stvarno implementirane mogućnosti:
 
 ---
 
-## 4. Pregled aplikacije
+## 📸 Pregled aplikacije
 
-<img width="1446" height="513" alt="login register" src="https://github.com/user-attachments/assets/8842424a-ccff-4147-82fb-445ecaa1d839" />
-<br><br>
-<img width="300" height="215" alt="Screenshot_2" src="https://github.com/user-attachments/assets/adad4932-589f-44f8-8d13-8db3ff8eaa64" />
-<br><br>
-<img width="270" height="230" alt="2fa" src="https://github.com/user-attachments/assets/f7971621-8e0a-4e23-9f04-2b50c663d157" />
-<br><br>
-<img width="1252" height="902" alt="admindashboard" src="https://github.com/user-attachments/assets/41b8761f-fff2-46cf-93f4-23ce2148ce37" />
-<br><br>
-<img width="1468" height="910" alt="artikli" src="https://github.com/user-attachments/assets/ab66928d-ed5c-4704-a974-e6194f8f8952" />
-<br><br>
-<img width="549" height="604" alt="artikallll" src="https://github.com/user-attachments/assets/135fe317-931d-44db-8aa2-7cf33227eef7" />
-<br><br>
-<img width="679" height="481" alt="update" src="https://github.com/user-attachments/assets/50d42820-96ac-4899-b108-70d05e198074" />
-<br><br>
-<img width="681" height="743" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6c0d1082-8bb6-4e34-9ee8-6734ebfa11b2" />
-<br><br>
-<img width="941" height="905" alt="qr kod" src="https://github.com/user-attachments/assets/1230e0a7-4f7c-4f3a-93b3-42e24b910556" />
-<br><br>
-<img width="1275" height="709" alt="odobravanje" src="https://github.com/user-attachments/assets/ccc4a06f-c465-4d68-8e34-01300b9f0e1a" />
-<br><br>Prilikom svake prijave trazi se 2FA!<br><br>
-<img width="554" height="438" alt="aasd" src="https://github.com/user-attachments/assets/7e17c8ee-d5e3-40f1-a483-75b48e1919ac" />
+### 🔐 Početna stranica (Login & Register)
+Početna stranica aplikacije koja omogućava korisniku da se prijavi ili registruje.
+
+![Login & Register](https://github.com/user-attachments/assets/8842424a-ccff-4147-82fb-445ecaa1d839)
+
+---
+
+### 👤 Login korisnika
+Forma za prijavu korisnika u sistem putem emaila i lozinke.
+
+![Login](https://github.com/user-attachments/assets/adad4932-589f-44f8-8d13-8db3ff8eaa64)
+
+---
+
+### 🔑 2FA autentifikacija
+Prilikom svakog loginovanja korisnik mora unijeti 2FA kod, što predstavlja važan sigurnosni aspekt aplikacije.
+
+![2FA](https://github.com/user-attachments/assets/f7971621-8e0a-4e23-9f04-2b50c663d157)
+
+---
+
+### 📊 Admin dashboard
+Glavni panel za administratora sa pregledom sistema i osnovnim kontrolama.
+
+![Admin Dashboard](https://github.com/user-attachments/assets/41b8761f-fff2-46cf-93f4-23ce2148ce37)
+
+---
+
+### 📦 Pregled artikala
+Stranica na kojoj se prikazuju svi artikli u sistemu.
+
+![Artikli](https://github.com/user-attachments/assets/ab66928d-ed5c-4704-a974-e6194f8f8952)
+
+---
+
+### ➕ Dodavanje artikla
+Forma koja omogućava unos i kreiranje novog artikla.
+
+![Dodavanje artikla](https://github.com/user-attachments/assets/135fe317-931d-44db-8aa2-7cf33227eef7)
+
+---
+
+### ✏️ Update artikla
+Omogućava izmjenu postojećih podataka o artiklu.
+
+![Update artikla](https://github.com/user-attachments/assets/50d42820-96ac-4899-b108-70d05e198074)
+
+---
+
+### 📝 Registracija korisnika
+Novi korisnik se registruje, ali mora čekati odobrenje administratora prije pristupa sistemu.
+
+![Registracija](https://github.com/user-attachments/assets/6c0d1082-8bb6-4e34-9ee8-6734ebfa11b2)
+
+---
+
+### 📲 Podešavanje 2FA
+Nakon odobrenja od strane administratora, korisnik podešava 2FA skeniranjem QR koda.
+
+![QR kod](https://github.com/user-attachments/assets/1230e0a7-4f7c-4f3a-93b3-42e24b910556)
+
+---
+
+### ✅ Admin odobravanje korisnika
+Administrator ima poseban panel za odobravanje novih korisnika prije nego što mogu koristiti sistem.
+
+![Odobravanje](https://github.com/user-attachments/assets/ccc4a06f-c465-4d68-8e34-01300b9f0e1a)
+
+---
+
+### 🔒 Obavezna 2FA zaštita
+Prilikom svake prijave obavezno je unijeti 2FA kod.
+
+![2FA obavezno](https://github.com/user-attachments/assets/7e17c8ee-d5e3-40f1-a483-75b48e1919ac)
 
 
 
