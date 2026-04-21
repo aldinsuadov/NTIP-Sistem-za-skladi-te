@@ -74,9 +74,14 @@ Stvarno implementirane mogućnosti:
 
 ---
 
-## 4. Struktura aplikacije (pregled stranica)
+## 4. Pregled aplikacije
 
 <img width="1446" height="513" alt="login register" src="https://github.com/user-attachments/assets/8842424a-ccff-4147-82fb-445ecaa1d839" />
+<br><br>
+<img width="555" height="438" alt="Screenshot_2" src="https://github.com/user-attachments/assets/adad4932-589f-44f8-8d13-8db3ff8eaa64" />
+<br><br>
+<img width="570" height="459" alt="2fa" src="https://github.com/user-attachments/assets/f7971621-8e0a-4e23-9f04-2b50c663d157" />
+
 
 
 
