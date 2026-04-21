@@ -76,10 +76,10 @@ Stvarno implementirane mogućnosti:
 
 ## 4. Struktura aplikacije (pregled stranica)
 
-*(Screenshotovi: dodaj slike u repo npr. u `/docs/screenshots/` i umetni ovdje linkove ako želiš vizualnu dokumentaciju.)*
+<img width="1446" height="513" alt="login register" src="https://github.com/user-attachments/assets/8842424a-ccff-4147-82fb-445ecaa1d839" />
 
 
-SLIKE
+
 
 
 
