@@ -78,7 +78,8 @@ Stvarno implementirane mogućnosti:
 
 <img width="1446" height="513" alt="login register" src="https://github.com/user-attachments/assets/8842424a-ccff-4147-82fb-445ecaa1d839" />
 <br><br>
-<img width="350" height="215" alt="Screenshot_2" src="https://github.com/user-attachments/assets/adad4932-589f-44f8-8d13-8db3ff8eaa64" />
+<img width="300" height="215" alt="Screenshot_2" src="https://github.com/user-attachments/assets/adad4932-589f-44f8-8d13-8db3ff8eaa64" />
+<br><br>
 <img width="270" height="230" alt="2fa" src="https://github.com/user-attachments/assets/f7971621-8e0a-4e23-9f04-2b50c663d157" />
 <br><br>
 <img width="1252" height="902" alt="admindashboard" src="https://github.com/user-attachments/assets/41b8761f-fff2-46cf-93f4-23ce2148ce37" />
