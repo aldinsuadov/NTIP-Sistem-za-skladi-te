@@ -151,6 +151,14 @@ Prilikom svake prijave obavezno je unijeti 2FA kod.
 
 ![2FA obavezno](https://github.com/user-attachments/assets/7e17c8ee-d5e3-40f1-a483-75b48e1919ac)
 
+---
+
+### 📈 Statistički pregled
+Prikaz statističkih podataka i analize sistema (npr. broj korisnika, artikala, aktivnosti i sl.).
+
+![Statistika](<img width="1281" height="825" alt="statistika" src="https://github.com/user-attachments/assets/db95e97c-a54f-45f4-98e4-dde20f92095c" />
+)
+
 
 
 
