@@ -53,25 +53,11 @@ Centralizirano vođenje inventara (artikala u kategorijama), pregled i unos poda
 
 ## 3. Funkcionalnosti aplikacije
 
-Stvarno implementirane mogućnosti:
-
-| Funkcionalnost | Status |
-|----------------|--------|
-| Registracija korisnika (email, lozinka, ime, prezime, telefon, JMBG) | Da |
-| Prijava / odjava | Da |
-| Google OAuth prijava | **Ne** |
-| Pregled artikala (lista s filterima) | Da |
-| Detalji jednog artikla | Da |
-| Unos novog artikla | Da |
-| Brisanje artikla (s detaljne stranice, s potvrdom) | Da |
-| Kategorije artikala (+ dodavanje kategorije pri unosu) | Da |
-| Korpa / checkout / plaćanje | **Ne** |
-| Historija narudžbi | **Ne** |
-| Korisnički profil (MFA postavke) | Da (`/profil/mfa`) |
-| Recenzije / komentari | **Ne** |
-| Admin panel (odobravanje, pregled korisnika) | Da |
-| Statistika (pregled podataka u aplikaciji) | Da (`/statistika`) |
-
+- ✔️ Registracija i prijava korisnika (uključujući MFA profil)  
+- ✔️ Upravljanje artiklima (pregled, detalji, unos, brisanje, kategorije)  
+- ✔️ Admin panel za upravljanje korisnicima i sadržajem  
+- ✔️ Statistika unutar aplikacije
+  
 ---
 
 ## 📸 Pregled aplikacije
