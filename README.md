@@ -90,11 +90,14 @@ Stvarno implementirane mogućnosti:
 <br><br>
 <img width="679" height="481" alt="update" src="https://github.com/user-attachments/assets/50d42820-96ac-4899-b108-70d05e198074" />
 <br><br>
-<img width="1275" height="709" alt="odobravanje" src="https://github.com/user-attachments/assets/ccc4a06f-c465-4d68-8e34-01300b9f0e1a" />
-<br><br>
 <img width="681" height="743" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6c0d1082-8bb6-4e34-9ee8-6734ebfa11b2" />
 <br><br>
 <img width="941" height="905" alt="qr kod" src="https://github.com/user-attachments/assets/1230e0a7-4f7c-4f3a-93b3-42e24b910556" />
+<br><br>
+<img width="1275" height="709" alt="odobravanje" src="https://github.com/user-attachments/assets/ccc4a06f-c465-4d68-8e34-01300b9f0e1a" />
+<br><br>
+<img width="554" height="438" alt="aasd" src="https://github.com/user-attachments/assets/7e17c8ee-d5e3-40f1-a483-75b48e1919ac" />
+
 
 
 
