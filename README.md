@@ -222,7 +222,6 @@ Implementirano:
 - **Vitest** (testovi)
 - **Recharts** (statistika)
 
-*Nije korišteno u projektu: NextAuth, Zod, React Hook Form, Uploadthing, Resend (direktno), Stripe/PayPal.*
 
 ---
 
