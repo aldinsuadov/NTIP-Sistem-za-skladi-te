@@ -77,7 +77,7 @@ Forma za prijavu korisnika u sistem putem emaila i lozinke.
 ---
 
 ### 🔑 2FA autentifikacija
-Prilikom svakog loginovanja korisnik mora unijeti 2FA kod, što predstavlja važan sigurnosni aspekt aplikacije.
+Prilikom svakog loginovanja korisnik mora unijeti 2FA kod, što predstavlja važan sigurnosni aspekt aplikacije. Opcija Trust this device je isključena jer to smanjuje sigurnost.
 
 ![2FA](https://github.com/user-attachments/assets/f7971621-8e0a-4e23-9f04-2b50c663d157)
 
